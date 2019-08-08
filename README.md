@@ -1,0 +1,2 @@
+# YeetMachine
+Python Discord bot
